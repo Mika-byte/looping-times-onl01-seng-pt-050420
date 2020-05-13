@@ -1,6 +1,5 @@
-def using_times
-7.times do 
-  puts "Wingardium Leviosa"
-end
+i = 7
+while i < 0
+puts ""
 
 
